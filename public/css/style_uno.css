@@ -1,0 +1,136 @@
+#inicio{
+	background: #fdfeff;
+	display: block;
+	width: auto;
+}
+
+.top-header {
+	padding: 1px 0 1px 0;
+}
+
+#wrap1 {
+	margin: 0 auto;
+}
+
+#wrap2 {
+	padding-left: 25px; 
+	padding-top:1px auto;
+}
+
+.copy-right {
+	text-align: center;
+	background: #222730;
+	padding: 0.5em 0;
+	border-top: 1px solid #05A2C1;
+}
+
+.copy-right p {
+	color: #FFF;
+	margin: 0;
+}
+
+h5{
+	font-size: 25px;
+}
+
+#logo1 span {
+	color: #FFF;
+	font-family:  Monotype Corsiva;
+	font-size: 25px;
+}
+
+#titulo{
+	color: #FFF;
+	font-family: Calibri Ligth;
+}
+
+#titulo1{
+	font-size: 20px;
+	color: #00A2C1;
+}
+
+#row_espacio{
+	margin-top: 15px;
+	
+}
+
+.form-group1{
+	margin-bottom: 5px;
+}
+
+#formBoton{
+	padding-top: 0px;
+}
+
+#p0{
+	font-size: 36px;
+	font-family: Apple Garamond;
+}
+
+#p01{
+	font-family:Vivaldi;
+	font-size: 50px;
+	margin: 0px;
+}
+#p1{
+	font-weight: 580;
+	font-size: 25px;
+	color: #FFF;
+	font-family: Calibri Ligth;
+	padding-right: 30px;
+}
+
+#p2{
+	font-size: 16px;
+	text-transform: uppercase;
+	background-color: #D3D3D3;
+}
+
+#panel1{
+	margin-top: 40%;
+	border: 2px solid #D3D3D3;
+	background-color: #F0FFF0;
+}
+
+#pane{
+	padding: 0px;
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+#panel2{
+	border: 2px solid #D3D3D3;
+}
+
+#panel3{
+	border: 2px solid #D3D3D3;
+}
+
+#panel4{
+	margin-top: 10px;
+	border: 1px solid #D3D3D3;
+}
+
+#enviar{
+	padding-left: 0px auto;
+	margin-right: 40px auto;
+}
+
+#limpiar{
+	padding-right: 0px auto;
+	margin-left: 40px auto;
+}
+
+#footer0 {
+	background: #222730;
+	margin-top: 108px;
+}
+#footer1 {
+	background: #222730;
+	margin-top: 8px;
+}
+
+#footer2 {
+	background: #222730;
+	margin-top: 10px;
+}
